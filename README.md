@@ -1,13 +1,8 @@
 <h1 align="center"> Olá, sou Carlos Morato, bem vindo ao meu github! </h1>
 
-<div align="center">
-<img alt="Carlos-pic" height="200" style="border-radius:50px;" src="https://lh3.googleusercontent.com/of0YqPJr13k1Lz49nBtJauZddBEOh3oJbvNw-VUhg4wxu4Nq8mdgwlk-W2FJdgFLhhlNJtxYQ9hFdZLM2_VwBGdNsoqcVjdRhef5_DqmDlhoz_83MZ57XNu19HTRtHJwXN3Wch9Fs78e6eiaUhB-GxMhHd6cj4a0_sXqlSsu5Y0ncOVPaA0i5I5mYHR6OB80p9fpEMA5g9tXmJ5R57xrfkGcrcqFal7uYBBklKmEucaNjYja-RZaGNaS8bwIrEeLtiwj9x2U5-qwhvsFzBbrniuUVjJGkGYr_1ESXn2Lwb9mEWtISxC6oe0KtCZj3DHXeJBSdtMSK7UY1rS6D5YuepkrVnu6cjXxehxqK7h3Gag7tKf1kyWGsOh65Yz9nksUdNG92HBsa5i-4QvpTqeIJI7TBNiVVqdV2eOexDyepicI9sQxXucXyuusbkrF9fTwLd_QMEafSqhpHdN7zjcAhV1D-QJLDwZURxHr37NbpezUoutVk12tdjnUWfyadSONoAetmF3FABKLo_KJP-ldsca4HVCVYiyjgUZnPcn6eZmCzP4B8939mKMIKM9d8XeDF4BkGRIxTI8PuPcKcYJLypMW-lXv6C5OmJWFenzMvcwpwMUUtycqrzoU6qbFHoOq5pjrQOgkFkFsQwp6ePiIXymynH61s87SuIt70QdrIQWIL2AKPLSGREutpo_A40ufQqZRgXDef35Sa3cPTUHPld1YbIbu_hZ9dF9BNSWbEpaQhnkEW6RA_BChsV2KAw8ARaWApRT2jE5uBs6D1sahw-SL8AJ5yGN0YMAuP4ZKAySjvlo_4s50yc8HR_1BzKG4dAE5iaFDDwmVStSUkRqO-jqreMvkcmqwFpCzdC3rzl64dAZROJvdoCLDUmmH2KEVLrcTqG4n6P_GdAyWoWaWX2NsfnJAqp0Vo2s-9jVSdOKsjdbjn7l-JCPv39HEVh0R0cxBHE-isWAsSTH1CrV8il0bX--4eZF_aKSYJF6Lwmysg-y9ZfMe24d04YxuG_4CzU0zRw=w202-h325-no?authuser=0">
-</div>
-
 - 🔭 Atualmente estou em transição de carreira;
 - 🌱 Aprendendo ADS e programação {java}; 
 - 👯 Buscando colaborar com a comunidade tech/dev do Brasil;
-
 
 <div align="center">
   <a href="https://github.com/Carloscam98">
