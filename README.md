@@ -4,10 +4,7 @@
 - 🌱 Aprendendo ADS e programação {java}; 
 - 👯 Buscando colaborar com a comunidade tech/dev do Brasil;
 
-<div align="center">
-  <a href="https://github.com/Carloscam98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscam98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscam98&layout=compact&langs_count=7&theme=dracula"/>
+<div ali
 </div>
 
 <div style="display: inline_block"><br>
