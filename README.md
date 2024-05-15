@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, sou Carlos Morato, bem vindo ao meu github! </h1>
 
-- 🔭 Projetista elétrico ⚡
+- ⚡ Projetista elétrico 
 - 🎓 Formado como técnico em Automação Industrial
 - 🌱 Cursando análise e desenvolvimento de software;
 - ☁️ Microsoft Certified AZ-900 and AI-900;
