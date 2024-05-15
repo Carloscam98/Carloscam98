@@ -1,8 +1,9 @@
 <h1 align="center"> Olá, sou Carlos Morato, bem vindo ao meu github! </h1>
 
-- 🔭 Atualmente estou em transição de carreira;
-- 🌱 Aprendendo ADS e programação {java}; 
-- 👯 Buscando colaborar com a comunidade tech/dev do Brasil;
+- 🔭 Projetista elétrico ⚡
+- 🎓 Formado como técnico em Automação Industrial
+- 🌱 Cursando análise e desenvolvimento de software;
+- ☁️ Microsoft Certified AZ-900 and AI-900;
 
 <div ali
 </div>
