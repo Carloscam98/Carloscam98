@@ -4,6 +4,7 @@
 - 🎓 Formado como técnico em Automação Industria e técnico Eletricista de Manutenção
 - 🤖 Cursando análise e desenvolvimento de software;
 - ☁️ Microsoft Certified AZ-900 and AI-900;
+-  ₿ Bitcoiner ₿
 
 <div ali
 </div>
