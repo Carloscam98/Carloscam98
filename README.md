@@ -4,7 +4,6 @@
 🔌 Experiência como projetista elétrico com forte base em automação industrial  
 🧠 Bitcoiner convicto, explorando o código-fonte do Bitcoin Core e contribuindo com projetos open source  
 🎓 Certificações Microsoft: AZ-900 | AI-900  
-📫 Contato: morato.carlos98@gmail.com
 
 <div ali
 </div>
