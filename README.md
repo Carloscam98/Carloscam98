@@ -1,10 +1,10 @@
-<h1 align="center"> Olá, sou Carlos Morato, bem vindo ao meu github! </h1>
+<h1 align="center"> 👋 Olá! Sou Carlos Morato — apaixonado por tecnologia, sistemas distribuídos e pela revolução que o Bitcoin representa.  </h1>
 
-- ⚡ Projetista elétrico 
-- 🎓 Formado como técnico em Automação Industrial e técnico Eletricista de Manutenção
-- 🤖 Cursando análise e desenvolvimento de software;
-- ☁️ Microsoft Certified AZ-900 and AI-900;
--  ₿ Bitcoiner ₿
+💼 Formado em Análise e Desenvolvimento de Sistemas | Pós-graduando em Análise de Dados e Inteligência Competitiva  
+🔌 Experiência como projetista elétrico com forte base em automação industrial  
+🧠 Bitcoiner convicto, explorando o código-fonte do Bitcoin Core e contribuindo com projetos open source  
+🎓 Certificações Microsoft: AZ-900 | AI-900  
+📫 Contato: morato.carlos98@gmail.com
 
 <div ali
 </div>
