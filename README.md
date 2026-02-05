@@ -4,7 +4,9 @@
 🔌 Experiência como projetista elétrico com forte base em automação industrial  
 🧠 Bitcoiner convicto, explorando o código-fonte do Bitcoin Core  
 🎓 Certificações Microsoft: AZ-900 | AI-900
- 🇧🇷 Professor de TI e Elétrica no SENAI 
+
+
+ 
 
 <div ali
 </div>
