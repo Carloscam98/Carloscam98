@@ -2,8 +2,9 @@
 
 💼 Formado em Análise e Desenvolvimento de Sistemas | Pós-graduando em Análise de Dados e Inteligência Competitiva  
 🔌 Experiência como projetista elétrico com forte base em automação industrial  
-🧠 Bitcoiner convicto, explorando o código-fonte do Bitcoin Core e contribuindo com projetos open source  
-🎓 Certificações Microsoft: AZ-900 | AI-900  
+🧠 Bitcoiner convicto, explorando o código-fonte do Bitcoin Core  
+🎓 Certificações Microsoft: AZ-900 | AI-900
+ 🇧🇷 Professor de TI e Elétrica no SENAI 
 
 <div ali
 </div>
