@@ -1,8 +1,8 @@
-<h1 align="center"> 👋 Olá! Sou Carlos Morato — apaixonado por tecnologia, sistemas distribuídos e pela revolução que o Bitcoin representa.  </h1>
+<h1 align="center"> 👋 Olá! Sou Carlos Morato — Um curioso em tecnologia, sistemas Open Source e pela revolução que o Bitcoin representa.  </h1>
 
-💼 Formado em Análise e Desenvolvimento de Sistemas | Pós-graduando em Análise de Dados e Inteligência Competitiva  
-🔌 Experiência como projetista elétrico com forte base em automação industrial  
-🧠 Bitcoiner convicto, explorando o código-fonte do Bitcoin Core  
+💼 Formado em Análise e Desenvolvimento de Sistemas-UniAmérica | Tecnico Automação Industrial-FAM | Eletricista de Manutenção-SENAI
+🔌 Experiência como Eletricista e projetista elétrico e Atuando como Instrutor de TI e Elétrica no SENAI Americana     
+🧠 Explorando o Bitcoin  
 🎓 Certificações Microsoft: AZ-900 | AI-900
 
 
